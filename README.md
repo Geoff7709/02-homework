@@ -20,6 +20,10 @@ Lastly, the client expressed a need for an appropriate title for the page. After
 
 The end result of these efforts did a great deal toward streamlining the codeing and increasing the accessability of the application without adversely affecting the overall look: [Horiseon](https://geoff7709.github.io/02-homework/)
 
+## **List of Image Files**
+
+[Brand Awareness](assets/images/brand-awareness.png)
+
 ## **License**
 
 Standard [MIT](https://github.com/Geoff7709/02-homework/blob/main/LICENSE) License

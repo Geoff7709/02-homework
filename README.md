@@ -22,7 +22,12 @@ The end result of these efforts did a great deal toward streamlining the codeing
 
 ## **List of Image Files**
 
-[Brand Awareness](assets/images/brand-awareness.png)
+* [Brand Awareness](assets/images/brand-awareness.png)
+* [Cost Management](assets/images/cost-management,png)
+* [Lead Generation](assets/images/lead-generation.png)
+* [Online Reputation Management](assets/images/online-reputation-management.jpg)
+* [Search Engine Optimization](assets/images/search-engine-optimization.jpg)
+* [Social Media Marketing](assets/images/social-media-marketing.jpg)
 
 ## **License**
 
